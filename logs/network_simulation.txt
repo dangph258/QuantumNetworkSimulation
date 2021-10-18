@@ -1,0 +1,205 @@
+DiGraph with 50 nodes and 136 edges Graph with 50 nodes and 68 edges
+Waiting for responses with create_id 1
+Qubits between Node 0 and Node 1 with purpose_id 1:
+   2078020: [Qubit('QS#790-0'), Qubit('QS#791-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 1 and Node 8 with purpose_id 2:
+   4146020: [Qubit('QS#1580-0'), Qubit('QS#1581-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 1 and Node 3 with purpose_id 3:
+   6214020: [Qubit('QS#2370-0'), Qubit('QS#2371-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 8 and Node 4 with purpose_id 4:
+  13710520: [Qubit('QS#5244-0'), Qubit('QS#5245-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 8 and Node 5 with purpose_id 5:
+  21207020: [Qubit('QS#8118-0'), Qubit('QS#8119-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 8 and Node 32 with purpose_id 6:
+  28703520: [Qubit('QS#10992-0'), Qubit('QS#10993-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 8 and Node 35 with purpose_id 7:
+  36200020: [Qubit('QS#13866-0'), Qubit('QS#13867-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 8 and Node 38 with purpose_id 8:
+  38268020: [Qubit('QS#14656-0'), Qubit('QS#14657-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 8 and Node 47 with purpose_id 9:
+  67478520: [Qubit('QS#25866-0'), Qubit('QS#25867-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 8 and Node 36 with purpose_id 10:
+  69546520: [Qubit('QS#26656-0'), Qubit('QS#26657-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 8 and Node 30 with purpose_id 11:
+  77043020: [Qubit('QS#29530-0'), Qubit('QS#29531-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 8 and Node 31 with purpose_id 12:
+  79111020: [Qubit('QS#30320-0'), Qubit('QS#30321-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 3 and Node 2 with purpose_id 13:
+  81179020: [Qubit('QS#31110-0'), Qubit('QS#31111-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 3 and Node 49 with purpose_id 14:
+  83247020: [Qubit('QS#31900-0'), Qubit('QS#31901-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 2 and Node 41 with purpose_id 15:
+  85315020: [Qubit('QS#32690-0'), Qubit('QS#32691-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 2 and Node 6 with purpose_id 16:
+  92811520: [Qubit('QS#35564-0'), Qubit('QS#35565-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 41 and Node 40 with purpose_id 17:
+  94879520: [Qubit('QS#36354-0'), Qubit('QS#36355-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 6 and Node 7 with purpose_id 18:
+  102376020: [Qubit('QS#39228-0'), Qubit('QS#39229-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 49 and Node 40 with purpose_id 19:
+  104444020: [Qubit('QS#40018-0'), Qubit('QS#40019-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 49 and Node 48 with purpose_id 20:
+  106512020: [Qubit('QS#40808-0'), Qubit('QS#40809-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 4 and Node 9 with purpose_id 21:
+  108580020: [Qubit('QS#41598-0'), Qubit('QS#41599-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 4 and Node 7 with purpose_id 22:
+  110648020: [Qubit('QS#42388-0'), Qubit('QS#42389-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 9 and Node 32 with purpose_id 23:
+  123573020: [Qubit('QS#47346-0'), Qubit('QS#47347-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 5 and Node 47 with purpose_id 24:
+  125641020: [Qubit('QS#48136-0'), Qubit('QS#48137-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 47 and Node 45 with purpose_id 25:
+  127709020: [Qubit('QS#48926-0'), Qubit('QS#48927-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 47 and Node 46 with purpose_id 26:
+  135205520: [Qubit('QS#51800-0'), Qubit('QS#51801-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 47 and Node 48 with purpose_id 27:
+  137273520: [Qubit('QS#52590-0'), Qubit('QS#52591-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 32 and Node 33 with purpose_id 28:
+  139341520: [Qubit('QS#53380-0'), Qubit('QS#53381-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 32 and Node 38 with purpose_id 29:
+  141409520: [Qubit('QS#54170-0'), Qubit('QS#54171-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 32 and Node 39 with purpose_id 30:
+  143477520: [Qubit('QS#54960-0'), Qubit('QS#54961-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 35 and Node 34 with purpose_id 31:
+  145545520: [Qubit('QS#55750-0'), Qubit('QS#55751-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 38 and Node 30 with purpose_id 32:
+  153042020: [Qubit('QS#58624-0'), Qubit('QS#58625-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 38 and Node 37 with purpose_id 33:
+  160538520: [Qubit('QS#61498-0'), Qubit('QS#61499-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 38 and Node 39 with purpose_id 34:
+  162606520: [Qubit('QS#62288-0'), Qubit('QS#62289-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 36 and Node 30 with purpose_id 35:
+  164674520: [Qubit('QS#63078-0'), Qubit('QS#63079-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 30 and Node 12 with purpose_id 36:
+  166742520: [Qubit('QS#63868-0'), Qubit('QS#63869-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 30 and Node 13 with purpose_id 37:
+  168810520: [Qubit('QS#64658-0'), Qubit('QS#64659-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 30 and Node 19 with purpose_id 38:
+  170878520: [Qubit('QS#65448-0'), Qubit('QS#65449-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 30 and Node 22 with purpose_id 39:
+  172946520: [Qubit('QS#66238-0'), Qubit('QS#66239-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 30 and Node 23 with purpose_id 40:
+  175014520: [Qubit('QS#67028-0'), Qubit('QS#67029-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 30 and Node 31 with purpose_id 41:
+  177082520: [Qubit('QS#67818-0'), Qubit('QS#67819-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 10 and Node 11 with purpose_id 42:
+  179150520: [Qubit('QS#68608-0'), Qubit('QS#68609-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 11 and Node 19 with purpose_id 43:
+  181218520: [Qubit('QS#69398-0'), Qubit('QS#69399-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 11 and Node 23 with purpose_id 44:
+  183286520: [Qubit('QS#70188-0'), Qubit('QS#70189-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 19 and Node 18 with purpose_id 45:
+  185354520: [Qubit('QS#70978-0'), Qubit('QS#70979-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 19 and Node 24 with purpose_id 46:
+  192851020: [Qubit('QS#73852-0'), Qubit('QS#73853-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 13 and Node 14 with purpose_id 47:
+  194919020: [Qubit('QS#74642-0'), Qubit('QS#74643-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 14 and Node 42 with purpose_id 48:
+  202415520: [Qubit('QS#77516-0'), Qubit('QS#77517-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 14 and Node 15 with purpose_id 49:
+  204483520: [Qubit('QS#78306-0'), Qubit('QS#78307-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 14 and Node 45 with purpose_id 50:
+  206551520: [Qubit('QS#79096-0'), Qubit('QS#79097-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 42 and Node 44 with purpose_id 51:
+  219476520: [Qubit('QS#84054-0'), Qubit('QS#84055-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 42 and Node 46 with purpose_id 52:
+  221544520: [Qubit('QS#84844-0'), Qubit('QS#84845-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 15 and Node 16 with purpose_id 53:
+  223612520: [Qubit('QS#85634-0'), Qubit('QS#85635-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 16 and Node 17 with purpose_id 54:
+  225680520: [Qubit('QS#86424-0'), Qubit('QS#86425-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 17 and Node 18 with purpose_id 55:
+  227748520: [Qubit('QS#87214-0'), Qubit('QS#87215-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 24 and Node 27 with purpose_id 56:
+  229816520: [Qubit('QS#88004-0'), Qubit('QS#88005-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 20 and Node 26 with purpose_id 57:
+  237313020: [Qubit('QS#90878-0'), Qubit('QS#90879-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 20 and Node 21 with purpose_id 58:
+  239381020: [Qubit('QS#91668-0'), Qubit('QS#91669-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 26 and Node 27 with purpose_id 59:
+  241449020: [Qubit('QS#92458-0'), Qubit('QS#92459-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 26 and Node 29 with purpose_id 60:
+  248945520: [Qubit('QS#95332-0'), Qubit('QS#95333-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 21 and Node 28 with purpose_id 61:
+  267299020: [Qubit('QS#102374-0'), Qubit('QS#102375-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 28 and Node 29 with purpose_id 62:
+  274795520: [Qubit('QS#105248-0'), Qubit('QS#105249-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 22 and Node 37 with purpose_id 63:
+  276863520: [Qubit('QS#106038-0'), Qubit('QS#106039-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 37 and Node 25 with purpose_id 64:
+  278931520: [Qubit('QS#106828-0'), Qubit('QS#106829-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 27 and Node 25 with purpose_id 65:
+  280999520: [Qubit('QS#107618-0'), Qubit('QS#107619-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 33 and Node 34 with purpose_id 66:
+  288496020: [Qubit('QS#110492-0'), Qubit('QS#110493-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 44 and Node 43 with purpose_id 67:
+  295992520: [Qubit('QS#113366-0'), Qubit('QS#113367-0')] with create_id 1
+Waiting for responses with create_id 1
+Qubits between Node 46 and Node 43 with purpose_id 68:
+  298060520: [Qubit('QS#114156-0'), Qubit('QS#114157-0')] with create_id 1
