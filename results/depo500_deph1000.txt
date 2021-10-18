@@ -1,0 +1,14 @@
+#Run experiment: num_runs: 1000, distance: 1.0, depolar_rate: 500.0, dephase_rate: 1000.0, result_file: depo500_deph1000.txt 
+1	0.9900
+#Run experiment: num_runs: 1000, distance: 5.0, depolar_rate: 500.0, dephase_rate: 1000.0, result_file: depo500_deph1000.txt 
+5	0.9600
+#Run experiment: num_runs: 1000, distance: 10.0, depolar_rate: 500.0, dephase_rate: 1000.0, result_file: depo500_deph1000.txt 
+10	0.9310
+#Run experiment: num_runs: 1000, distance: 15.0, depolar_rate: 500.0, dephase_rate: 1000.0, result_file: depo500_deph1000.txt 
+15	0.9000
+#Run experiment: num_runs: 1000, distance: 20.0, depolar_rate: 500.0, dephase_rate: 1000.0, result_file: depo500_deph1000.txt 
+20	0.8670
+#Run experiment: num_runs: 1000, distance: 25.0, depolar_rate: 500.0, dephase_rate: 1000.0, result_file: depo500_deph1000.txt 
+25	0.8530
+#Run experiment: num_runs: 1000, distance: 30.0, depolar_rate: 500.0, dephase_rate: 1000.0, result_file: depo500_deph1000.txt 
+30	0.8070

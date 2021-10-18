@@ -1,0 +1,92 @@
+\documentclass[border=5mm]{standalone}
+\usepackage{pgfplots}
+\definecolor{mypink}{RGB}{203, 154, 46}
+\definecolor{mypink1}{RGB}{138, 39, 41}
+\definecolor{mypink2}{RGB}{89, 154, 73}
+\definecolor{mypink3}{RGB}{114, 116, 197}
+
+\begin{document}
+
+
+\begin{tikzpicture}
+\begin{axis}[
+    %title={\large{Fidelity}},
+    xlabel={\large{Number of nodes}},
+    ylabel={\large{Fidelity}},
+    %legend entries={Opt$\_$MCLP$(\alpha=1)$, Opt$\_$MCLP$(\alpha=10)$, Opt$\_$MCLP$(\alpha=100)$},
+    legend entries={$p_{init}=0.05$ $\alpha$=0.025 dB/km,$p_{init}=0.05$ $\alpha$=0.05 dB/km, $p_{init}=0.1$ $\alpha$=0.025 dB/km, $p_{init}=0.1$ $\alpha$=0.05 dB/km},
+    xmin=3,
+    ymin=0.1,
+    xmax=20,
+    ymax=1,
+    extra x ticks={3},
+    %xtick={0, 100, 200, 300, 400},
+    %ytick={0,20,40,60,80,100,120},
+    legend pos=south west, %outer north east, north west, north east, south west, south east
+    ymajorgrids=true,
+    grid style=dashed, %solid, (densely, loosely) dotted, (densely, loosely) dashed, (densely, loosely) dashdotted, (densely, loosely) dashdotdotted, {color=blue, thick}
+    legend style={at={(0.98,0.98)},anchor=north east, line width=.7pt, mark size=2pt, nodes={scale=0.7, transform shape}},
+     line width=1.2pt,
+     mark size=3 pt,
+]
+
+% none
+% +, *, o, triangle, cube(square), star, diamond, otimes, pentagon, |, halfcircle, ball
+% triangle*, cube*, diamond*, square*, halfcircle*, halfsquare* (halfdiamond*), pentagon*, halfsquare right*, halfsquare left*
+
+% red, green, blue, cyan, magenta, yellow, black,
+% gray, white, darkgray, lightgray, brown, lime,
+% olive, orange, pink, purple, teal, violet.
+% red!30!white implies that 30% of red and 70% of white
+% rgb,255:red,231;green,84;blue,121 implies that 231/255 red, 84/255 green, and 121/255
+
+%solid, (densely, loosely) dotted, (densely, loosely) dashed, (densely, loosely) dashdotted, (densely, loosely) dashdotdotted
+
+\addplot[
+    color=mypink,
+    solid,
+    %densely dotted,
+    mark=pentagon,
+    mark options={solid},
+] table {ev4_005_0025.txt};
+
+\addplot[
+color=mypink1,
+%densely dashed,
+solid,
+mark=triangle,
+mark options={solid},
+] table {ev4_005_005.txt};
+
+\addplot[
+color=mypink2,
+solid,
+%densely dotted,
+mark=diamond,
+mark options={solid},
+] table {ev4_01_0025.txt};
+
+\addplot[
+color=mypink3,
+solid,
+%densely dotted,
+mark=square,
+mark options={solid},
+] table {ev4_01_005.txt};
+
+%\addplot[
+%    color=teal,
+%    solid,
+%    mark=star,
+%    mark options={solid},
+%] table {Dang_agg.txt};
+
+
+\end{axis}
+\end{tikzpicture}
+
+
+
+
+
+\end{document} 
